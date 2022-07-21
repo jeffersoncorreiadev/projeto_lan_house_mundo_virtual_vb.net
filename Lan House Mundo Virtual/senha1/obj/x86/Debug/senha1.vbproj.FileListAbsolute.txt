@@ -1,0 +1,98 @@
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\bin\Debug\senha1.exe
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\bin\Debug\senha1.pdb
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\senha1.exe
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\senha1.xml
+D:\PROGRAMASsss\Programação Vb.net\Visual Studio 2010 Ultimate\Apostilas VB\senha1\senha1\senha1\obj\x86\Debug\senha1.pdb
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\senha1.exe
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\senha1.xml
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\senha1.pdb
+C:\Users\Érika\Desktop\senha1\senha1\senha1\bin\Debug\senha1.exe
+C:\Users\Érika\Desktop\senha1\senha1\senha1\bin\Debug\senha1.pdb
+C:\Users\Érika\Desktop\senha1\senha1\senha1\bin\Debug\senha1.xml
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\senha1\senha1\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\bin\Debug\senha1.exe
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\bin\Debug\senha1.pdb
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\bin\Debug\senha1.xml
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\senha1.exe
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\senha1.xml
+C:\Users\Érika\Documents\Visual Studio 2010\Projects\senha1\senha1\senha1\obj\x86\Debug\senha1.pdb
+C:\senha1\senha1\bin\Debug\senha1.exe
+C:\senha1\senha1\bin\Debug\senha1.pdb
+C:\senha1\senha1\bin\Debug\senha1.xml
+C:\senha1\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\senha1\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\senha1\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\senha1\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\senha1\senha1\obj\x86\Debug\senha1.exe
+C:\senha1\senha1\obj\x86\Debug\senha1.xml
+C:\senha1\senha1\obj\x86\Debug\senha1.pdb
+C:\Users\Érika\Desktop\senha1\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\senha1\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\senha1\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\senha1\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\senha1\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\GenerateResource.write.1.tlog

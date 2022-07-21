@@ -1,0 +1,666 @@
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\senha1\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Érika\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+D:\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+D:\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+D:\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+D:\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\bin\Debug\bd.mdb
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Jefferson\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Jefferson\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Jefferson\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.29.tlog
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.29.tlog
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\PROJETO ATUAL DATA 20 DO MES 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.29.tlog
+C:\Users\Jefferson\Desktop\PROJETO ATUAL DATA 20 DO MES 05\prototipo lan house mundo virtual\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jefferson\Desktop\ATUALIZAÇÃO DIA 25 DO 05\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\Jefferson\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Érika\Desktop\Projeto com senha funcionando\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Érika\Desktop\Lan House Mundo Virtual_projeto_pronto\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Érika\Desktop\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Érika\Desktop\Projeto FINAL\Projeto FINAL\Projeto FINAL\Projeto FINAL\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+D:\PROTOTIPO LAN HOUSE MUNDO VIRUTAL\Lan House Mundo Virtual\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\Érika\Desktop\Lan House Mundo Virtual\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe.config
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.exe
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.xml
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\Lan House Mundo Virtual.pdb
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.exe
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.pdb
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\bin\Debug\Lan House Mundo Virtual.xml
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form13.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form14.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form15.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form16.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form17.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form18.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form19.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form20.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form21.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form22.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form23.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.cache
+C:\Users\ERIKA-NOTE\Desktop\Lan House Mundo Virtual\senha1\obj\x86\Debug\RdlCompile.compiled
