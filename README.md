@@ -1,2 +1,2 @@
-# projeto_lan_house_mundo_virtual_vb.net
-Projeto de um simulador de administração de uma Lan House.
+# Projeto Lan House Mundo Virtual
+Simulador de administração e utilização por parte do usuário a um programa de Lan House.
